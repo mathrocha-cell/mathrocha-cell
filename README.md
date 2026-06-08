@@ -1,16 +1,27 @@
 ## Hi there 👋
+# Olá, eu sou Matheus Rocha 👋
 
-<!--
-**mathrocha-cell/mathrocha-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados
 
-Here are some ideas to get you started:
+📊 Atualmente estudando:
+- Python
+- SQL
+- Git e GitHub
+- Análise de Dados
+- Estatística
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo:
+Conseguir minha primeira oportunidade na área de tecnologia e construir uma carreira em Dados.
+
+## Sobre mim
+
+Sou apaixonado por aprender coisas novas e estou desenvolvendo minhas habilidades em programação e análise de dados através de cursos, projetos e estudos práticos.
+
+## Projetos
+
+Em breve adicionarei aqui meus projetos de Ciência de Dados, Python e Análise de Dados.
+
+## Contato
+
+- LinkedIn: (https://www.linkedin.com/in/matheus-rocha-932256a3/)
+- E-mail: (Math.duud@gmail.com)
